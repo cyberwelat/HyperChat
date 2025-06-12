@@ -1,3 +1,9 @@
+CyberWelat Odamıza Erişmek İçin Programımıza Girin Ve Şu Bilgileri Girin:
+
+    Sunucu İP Kısmına : 91.151.89.248
+    Sunucu PORT Kısmına : 5555
+    Anahtar Kısmına (Önemli) : dllopB+Psue5yDiPR4vzJhq+BzUAvRq+dBSnF3iRNm4=
+
 CyberWelat Secure Chat – Şifreli ve Güvenli Mesajlaşmanın Yeni Adı
 
 CyberWelat Secure Chat, modern çağın dijital iletişim ihtiyaçları için özel olarak geliştirilmiş, AES şifreleme teknolojisiyle donatılmış, Windows (.exe) ve Linux sistemlerinde sorunsuz çalışan, kullanımı kolay ama etkili bir güvenli mesajlaşma istemcisidir.
